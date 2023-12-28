@@ -33,12 +33,9 @@ import com.yizhi.student.service.StudentInfoService;
 @RequestMapping("/student/studentInfo")
 public class StudentInfoController {
 
-	
-
 
 	@Autowired
 	private StudentInfoService studentInfoService;
-
 
 
 	/**
